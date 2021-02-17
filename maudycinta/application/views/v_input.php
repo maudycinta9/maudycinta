@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat CRUD dengan CodeIgniter | MalasNgoding.com</title>
+	<title>Membuat CRUD dengan CodeIgniter | Maudycinta</title>
 </head>
 <body>
 	<center>
-		<h1>Membuat CRUD dengan CodeIgniter | MalasNgoding.com</h1>
+		<h1>Membuat CRUD dengan CodeIgniter | Maudycinta</h1>
 		<h3>Tambah data baru</h3>
 	</center>
 	<form action="<?php echo base_url(). 'crud/tambah_aksi'; ?>" method="post">
